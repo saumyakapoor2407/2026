@@ -2,9 +2,6 @@
 
 Personal portfolio website for Saumya Shree, built for GitHub Pages.
 
-## Live Site
-
-Visit: [https://000v000.github.io/portfolio-site-saumya/](https://000v000.github.io/portfolio-site-saumya/)
 
 ## Setup
 
